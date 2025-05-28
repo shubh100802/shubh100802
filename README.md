@@ -105,6 +105,7 @@ An official website for PhysicsCentre.in to showcase educational services and re
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![SQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=adobe-lightroom&logoColor=white)
 
 ---
 
