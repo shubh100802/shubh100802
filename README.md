@@ -1,22 +1,26 @@
-# 🚀 Shubham Raj Sharma – Project Portfolio
+<h1 align="center">🚀 Shubham Raj Sharma – Project Portfolio</h1>
 
-Welcome to my project showcase! I’m a final-year Computer Science student with a strong foundation in **full stack development**, **backend engineering**, and **software design**. I thrive on solving real-world problems through technology and building scalable, user-friendly web applications.
-
-🌐 **Connect with me:**  
-[LinkedIn](https://www.linkedin.com/in/shubham-raj-sharma-306aa0247) | [Instagram](https://www.instagram.com/itsmeshubh2026) | [Personal Website](https://physicscentre.in)
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubham-raj-sharma-306aa0247">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/itsmeshubh2026">
+    <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://physicscentre.in">
+    <img src="https://img.shields.io/badge/Website-physicscentre.in-orange" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=shubh100802&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubh100802&layout=compact&theme=radical)
-
 
 ## 📌 Table of Contents
 
 - [👨‍💻 About Me](#-about-me)
 - [💼 Projects](#-projects)
-  - [Student Marks Portal](#1-student-marks-portal)
-  - [PhysicsCentre.in Website](#2-physicscentrein-website)
 - [🛠 Skills & Tools](#-skills--tools)
+- [📊 GitHub Stats](#-github-stats)
 - [📬 Contact](#-contact)
 - [🎯 Hobbies](#-hobbies)
 
@@ -24,7 +28,9 @@ Welcome to my project showcase! I’m a final-year Computer Science student with
 
 ## 👨‍💻 About Me
 
-I am a dedicated and curious developer passionate about crafting efficient and modern software solutions. My expertise lies in building full stack applications using **JavaScript**, **Node.js**, **MongoDB**, and other cutting-edge tools. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
+I’m a final-year Computer Science student with a strong foundation in **full stack development**, **backend engineering**, and **software design**. I thrive on solving real-world problems through technology and building scalable, user-friendly web applications.
+
+I enjoy crafting efficient, modern software solutions using **JavaScript**, **Node.js**, **MongoDB**, and other technologies.
 
 ---
 
@@ -32,10 +38,10 @@ I am a dedicated and curious developer passionate about crafting efficient and m
 
 ### 📘 1. Student Marks Portal
 
-**🔗 Repository:** [Student_Marks](https://github.com/shubh100802/Student_Marks)  
-**🌐 Live Demo:** [student-marks-b29u.onrender.com](https://student-marks-b29u.onrender.com/index.html)
+🔗 [GitHub Repository](https://github.com/shubh100802/Student_Marks)  
+🌐 [Live Demo](https://student-marks-b29u.onrender.com/index.html)
 
-A secure and efficient platform to manage and view student marks. Designed for teachers to upload student data in bulk and for students to easily access their performance records.
+A secure and efficient platform to manage and view student marks.
 
 **🔑 Features:**
 - Secure teacher authentication
@@ -54,10 +60,10 @@ A secure and efficient platform to manage and view student marks. Designed for t
 
 ### 🌐 2. PhysicsCentre.in Website
 
-**🔗 Repository:** [physicscentre.in-new](https://github.com/shubh100802/physicscentre.in-new)  
-**🌐 Live Site:** [physicscentre.in](https://physicscentre.in)
+🔗 [GitHub Repository](https://github.com/shubh100802/physicscentre.in-new)  
+🌐 [Live Site](https://physicscentre.in)
 
-An official website built for PhysicsCentre.in to showcase educational services and resources. Fully responsive and designed to provide students with updates and content access.
+An official website for PhysicsCentre.in to showcase educational services and resources.
 
 **🔑 Features:**
 - Modern, responsive landing page
@@ -73,22 +79,49 @@ An official website built for PhysicsCentre.in to showcase educational services 
 
 ## 🛠 Skills & Tools
 
-**Languages & Frameworks:**  
-`Java` · `Python` · `JavaScript` · `Node.js` · `SQL` · `Express.js`
+### 💻 Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=flat&logo=express&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**Databases:**  
-`MongoDB` · `MySQL` · `XAMPP`
+### 🗃️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
 
-**Tools & Platforms:**  
-`Git` · `GitHub` · `VS Code` · `IntelliJ IDEA` · `AWS` · `Postman` · `MongoDB Compass/Atlas` · `SQL Workbench` · `Canva`
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-00ED64?style=flat&logo=mongodb&logoColor=white)
+![SQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat&logo=mysql&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubh100802&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh100802&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
 ## 📬 Contact
 
-![GitHub followers](https://img.shields.io/github/followers/shubh100802?label=Follow&style=social)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-raj-sharma-306aa0247)
-![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white&link=https://instagram.com/itsmeshubh2026)
+- **GitHub:** [@shubh100802](https://github.com/shubh100802)
+- **LinkedIn:** [Shubham Raj Sharma](https://www.linkedin.com/in/shubham-raj-sharma-306aa0247)
+- **Instagram:** [@itsmeshubh2026](https://www.instagram.com/itsmeshubh2026)
+- **Personal Website:** [physicscentre.in](https://physicscentre.in)
+
 ---
 
 ## 🎯 Hobbies
@@ -98,10 +131,5 @@ An official website built for PhysicsCentre.in to showcase educational services 
 - 🏏 Playing cricket
 
 ---
-
-![visitors](https://komarev.com/ghpvc/?username=shubh100802&label=Profile%20views&color=0e75b6&style=flat)
-
-
-
 
 > *Thank you for visiting my project portfolio! Feel free to explore, fork, or connect with me for collaboration or opportunities.*
