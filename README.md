@@ -7,6 +7,9 @@ Welcome to my project showcase! I’m a final-year Computer Science student with
 
 ---
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubh100802&layout=compact&theme=radical)
+
+
 ## 📌 Table of Contents
 
 - [👨‍💻 About Me](#-about-me)
@@ -83,11 +86,9 @@ An official website built for PhysicsCentre.in to showcase educational services 
 
 ## 📬 Contact
 
-- **GitHub:** [shubh100802](https://github.com/shubh100802)
-- **LinkedIn:** [Shubham Raj Sharma](https://www.linkedin.com/in/shubham-raj-sharma-306aa0247)
-- **Instagram:** [@itsmeshubh2026](https://www.instagram.com/itsmeshubh2026)
-- **Personal Website:** [physicscentre.in](https://physicscentre.in)
-
+![GitHub followers](https://img.shields.io/github/followers/shubh100802?label=Follow&style=social)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-raj-sharma-306aa0247)
+![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white&link=https://instagram.com/itsmeshubh2026)
 ---
 
 ## 🎯 Hobbies
@@ -98,10 +99,9 @@ An official website built for PhysicsCentre.in to showcase educational services 
 
 ---
 
+![visitors](https://komarev.com/ghpvc/?username=shubh100802&label=Profile%20views&color=0e75b6&style=flat)
 
-![GitHub followers](https://img.shields.io/github/followers/shubh100802?label=Follow&style=social)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-raj-sharma-306aa0247)
-![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white&link=https://instagram.com/itsmeshubh2026)
+
 
 
 > *Thank you for visiting my project portfolio! Feel free to explore, fork, or connect with me for collaboration or opportunities.*
