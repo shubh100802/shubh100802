@@ -98,4 +98,10 @@ An official website built for PhysicsCentre.in to showcase educational services 
 
 ---
 
+
+![GitHub followers](https://img.shields.io/github/followers/shubh100802?label=Follow&style=social)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-raj-sharma-306aa0247)
+![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white&link=https://instagram.com/itsmeshubh2026)
+
+
 > *Thank you for visiting my project portfolio! Feel free to explore, fork, or connect with me for collaboration or opportunities.*
