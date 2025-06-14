@@ -36,7 +36,31 @@ I enjoy crafting efficient, modern software solutions using **JavaScript**, **No
 
 ## 💼 Projects
 
-### 📘 1. Student Marks Portal
+### 📘 1. Geo-Attendance-System
+
+🔗 [GitHub Repository](https://github.com/shubh100802/Geo-Attendance-System.git)  
+🌐 [Live Demo](https://geo-attendance-system.onrender.com/)
+
+A secure and efficient platform to mark attendance by avoiding proxies.
+
+**🔑 Features:**
+- Secure teacher and student login authentication
+- Bulk upload of student list (Excel/PDF)
+- Slot-wise attendace and student search
+- Can mark attendace based on Geo - location
+- Clean and responsive UI
+- Scalable data handling with MongoDB
+
+**🛠 Tech Stack:**
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Deployment:** Render
+- **Authentication:** JWT
+
+---
+
+### 📘 2. Student Marks Portal
 
 🔗 [GitHub Repository](https://github.com/shubh100802/Student_Marks)  
 🌐 [Live Demo](https://student-marks-b29u.onrender.com/index.html)
@@ -58,7 +82,7 @@ A secure and efficient platform to manage and view student marks.
 
 ---
 
-### 🌐 2. PhysicsCentre.in Website
+### 🌐 3. PhysicsCentre.in Website
 
 🔗 [GitHub Repository](https://github.com/shubh100802/physicscentre.in-new)  
 🌐 [Live Site](https://physicscentre.in)
