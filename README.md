@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Shubham Raj Sharma – Project Portfolio</h1>
+<h1 align="center">🚀 Shubham Raj Sharma </h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham-raj-sharma-306aa0247">
