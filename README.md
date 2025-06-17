@@ -1,7 +1,8 @@
 <h1 align="center">🚀 Shubham Raj Sharma </h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Hello%2C%20I%27m%Shubham%20Raj%20Sharma👋" width="100%" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Hello%2C%20I%27m%20Shubham%20Raj%20Sharma%20👋" width="100%" alt="Banner"/>
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham-raj-sharma-306aa0247">
