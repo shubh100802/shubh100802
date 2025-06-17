@@ -11,8 +11,8 @@
   <a href="https://www.instagram.com/itsmeshubh2026">
     <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white" />
   </a>
-  <a href="(https://shubh100802.github.io/Portfolio/)">
-    <img src="https://img.shields.io/badge/Website-Personal_Portfolio-orange" />
+  <a href="https://shubh100802.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Personal_Portfolio-orange" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=shubh100802&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
