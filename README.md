@@ -152,7 +152,7 @@ An official website for PhysicsCentre.in to showcase educational services and re
 - **GitHub:** [@shubh100802](https://github.com/shubh100802)
 - **LinkedIn:** [Shubham Raj Sharma](https://www.linkedin.com/in/shubham-raj-sharma-306aa0247)
 - **Instagram:** [@itsmeshubh2026](https://www.instagram.com/itsmeshubh2026)
-- **Personal Portfolio:** [Portfolio](https://shubh100802.github.io/Portfolio/)
+- **Personal Portfolio:** [Portfolio](https://shubhs-portfolio-sfy2.onrender.com/)
 
 ---
 
