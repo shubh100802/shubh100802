@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Software+Developer+%28Java%29;Building+scalable+and+real+world+web+apps" alt="Typing SVG subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Software+Developer+%28Java%29;Building+scalable+and+real-world+web+apps" alt="Typing SVG subtitle" />
 </p>
 
 <p align="center">
@@ -26,11 +26,10 @@
   <img src="https://komarev.com/ghpvc/?username=shubh100802&label=Profile%20views&color=0e75b6&style=flat" alt="GitHub profile views" />
 </p>
 
-<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer typing at computer" width="500" />
 </p>
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer&text=&fontSize=0" width="100%" alt="section divider"/></p>
 
 ## 📌 Table of Contents
 <img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Terminal typing animation" width="180" />
@@ -44,32 +43,29 @@
 
 <div style="clear: both;"></div>
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer&text=&fontSize=0" width="100%" alt="section divider"/></p>
 
 ## 👨‍💻 About Me
 
 I’m a final-year Computer Science student with a strong foundation in **full stack development**, **backend engineering**, and **software design**. I thrive on solving real-world problems through technology and building scalable, user-friendly web applications.
 
-I enjoy crafting efficient, modern software solutions using **JavaScript**, **Node.js**, **MongoDB**, and other technologies.
+I enjoy crafting efficient, modern software solutions using **Java**, **JavaScript**, **Node.js**, **MongoDB**, and other technologies.
 
----
+[↑ Back to top](#)
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer&text=&fontSize=0" width="100%" alt="section divider"/></p>
 
 ## 💼 Projects
-<img align="right" src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" alt="Neon code compile animation" width="200" />
 
 ### 📘 1. Geo-Attendance-System
 
 🔗 [GitHub Repository](https://github.com/shubh100802/Geo-Attendance-System.git)  
 🌐 [Live Demo](https://geo-attendance-system.onrender.com/)
-
-A secure and efficient platform to mark attendance by avoiding proxies.
-
 **🔑 Features:**
 - Secure teacher and student login authentication
 - Bulk upload of student list (Excel/PDF)
 - Slot-wise attendance and student search
 - Can mark attendance based on geolocation
-- Clean and responsive UI
 - Scalable data handling with MongoDB
 
 **🛠 Tech Stack:**
@@ -181,15 +177,20 @@ An official website for PhysicsCentre.in to showcase educational services and re
 - **Frontend:** HTML, CSS, JavaScript  
 - **Hosting:** GitHub Pages + Custom Domain
 
+[↑ Back to top](#)
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer&text=&fontSize=0" width="100%" alt="section divider"/></p>
+
 ## 🛠 Skills & Tools
-<img align="right" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" alt="Floating code cards animation" width="200" />
+
+<img align="right" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" alt="Floating code cards animation" width="180" />
 
 ### 💻 Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-black?style=flat&logo=express&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -212,7 +213,9 @@ An official website for PhysicsCentre.in to showcase educational services and re
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=adobe-lightroom&logoColor=white)
 
----
+[↑ Back to top](#)
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer&text=&fontSize=0" width="100%" alt="section divider"/></p>
 
 ## 📊 GitHub Stats
 
@@ -228,22 +231,25 @@ An official website for PhysicsCentre.in to showcase educational services and re
 
 ## 📬 Contact
 
-- **GitHub:** [@shubh100802](https://github.com/shubh100802)
-- **LinkedIn:** [Shubham Raj Sharma](https://www.linkedin.com/in/shubham-raj-sharma-306aa0247)
-- **Instagram:** [@itsmeshubh2026](https://www.instagram.com/itsmeshubh2026)
-- **Personal Portfolio:** [Portfolio](https://shubhs-portfolio-sfy2.onrender.com/)
- - **Email:** [shubhamraj1414@gmail.com](mailto:shubhamraj1414@gmail.com)
- - **Resume:** [Download (Google Drive)](https://drive.google.com/file/d/1lO4-hu7nZcTjGaUJWAHvKjt3CYxcl9hS/view?usp=sharing)
+- 🐙 **GitHub:** [@shubh100802](https://github.com/shubh100802)
+- 💼 **LinkedIn:** [Shubham Raj Sharma](https://www.linkedin.com/in/shubham-raj-sharma-306aa0247)
+- 📸 **Instagram:** [@itsmeshubh2026](https://www.instagram.com/itsmeshubh2026)
+- 🌐 **Portfolio:** [Portfolio 🌐](https://shubhs-portfolio-sfy2.onrender.com/)
+- ✉️ **Email:** [shubhamraj1414@gmail.com](mailto:shubhamraj1414@gmail.com)
+- 📄 **Resume:** [Download (Google Drive)](https://drive.google.com/file/d/1lO4-hu7nZcTjGaUJWAHvKjt3CYxcl9hS/view?usp=sharing)
 
----
+[↑ Back to top](#)
 
-## 🎯 Hobbies
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer&text=&fontSize=0" width="100%" alt="section divider"/></p>
+
 
 - 📖 Reading religious literature  
 - 🎤 Singing  
 - 🏏 Playing cricket
 
----
+[↑ Back to top](#)
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer&text=&fontSize=0" width="100%" alt="section divider"/></p>
 
 <div style="clear: both;"></div>
 
