@@ -26,6 +26,7 @@
   <img src="https://komarev.com/ghpvc/?username=shubh100802&label=Profile%20views&color=0e75b6&style=flat" alt="GitHub profile views" />
 </p>
 
+<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer typing at computer" width="500" />
 </p>
 
@@ -56,12 +57,12 @@ I enjoy crafting efficient, modern software solutions using **Java**, **JavaScri
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer&text=&fontSize=0" width="100%" alt="section divider"/></p>
 
 ## 💼 Projects
+<img align="right" src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" alt="Neon code compile animation" width="180" />
 
 ### 📘 1. Geo-Attendance-System
 
 🔗 [GitHub Repository](https://github.com/shubh100802/Geo-Attendance-System.git)  
 🌐 [Live Demo](https://geo-attendance-system.onrender.com/)
-
 **🔑 Features:**
 - Secure teacher and student login authentication
 - Bulk upload of student list (Excel/PDF)
@@ -239,20 +240,15 @@ An official website for PhysicsCentre.in to showcase educational services and re
 - ✉️ **Email:** [shubhamraj1414@gmail.com](mailto:shubhamraj1414@gmail.com)
 - 📄 **Resume:** [Download (Google Drive)](https://drive.google.com/file/d/1lO4-hu7nZcTjGaUJWAHvKjt3CYxcl9hS/view?usp=sharing)
 
-[↑ Back to top](#)
+---
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer&text=&fontSize=0" width="100%" alt="section divider"/></p>
-
+## 🎯 Hobbies
 
 - 📖 Reading religious literature  
 - 🎤 Singing  
 - 🏏 Playing cricket
 
 [↑ Back to top](#)
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer&text=&fontSize=0" width="100%" alt="section divider"/></p>
-
-<div style="clear: both;"></div>
 
 ---
 
