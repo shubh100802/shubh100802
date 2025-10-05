@@ -94,7 +94,7 @@ A modern desktop app to manage books, students, and lending workflows — built 
 - **Frontend:** Java Swing  
 - **Backend:** Java (JDBC)  
 - **Database:** MySQL  
-- **Tools:** MySQL Connector/J
+- **Tools:** MySQL Connector
 
 ---
 
