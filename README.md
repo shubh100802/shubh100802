@@ -33,6 +33,7 @@
 ---
 
 ## 📌 Table of Contents
+<img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Terminal typing animation" width="200" />
 
 - [👨‍💻 About Me](#-about-me)
 - [💼 Projects](#-projects)
@@ -47,7 +48,7 @@
 
 I’m a final-year Computer Science student with a strong foundation in **full stack development**, **backend engineering**, and **software design**. I thrive on solving real-world problems through technology and building scalable, user-friendly web applications.
 
-I enjoy crafting efficient, modern software solutions using **Java**, **JavaScript**, **Node.js**, **MongoDB**, and other technologies.
+I enjoy crafting efficient, modern software solutions using **JavaScript**, **Node.js**, **MongoDB**, and other technologies.
 
 ---
 
@@ -178,6 +179,7 @@ An official website for PhysicsCentre.in to showcase educational services and re
 - **Hosting:** GitHub Pages + Custom Domain
 
 ## 🛠 Skills & Tools
+<img align="right" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" alt="Floating code cards animation" width="200" />
 
 ### 💻 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
