@@ -185,6 +185,7 @@ An official website for PhysicsCentre.in to showcase educational services and re
 <img align="right" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" alt="Floating code cards animation" width="200" />
 
 ### 💻 Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -231,6 +232,8 @@ An official website for PhysicsCentre.in to showcase educational services and re
 - **LinkedIn:** [Shubham Raj Sharma](https://www.linkedin.com/in/shubham-raj-sharma-306aa0247)
 - **Instagram:** [@itsmeshubh2026](https://www.instagram.com/itsmeshubh2026)
 - **Personal Portfolio:** [Portfolio](https://shubhs-portfolio-sfy2.onrender.com/)
+ - **Email:** [shubhamraj1414@gmail.com](mailto:shubhamraj1414@gmail.com)
+ - **Resume:** [Download (Google Drive)](https://drive.google.com/file/d/1lO4-hu7nZcTjGaUJWAHvKjt3CYxcl9hS/view?usp=sharing)
 
 ---
 
@@ -244,4 +247,9 @@ An official website for PhysicsCentre.in to showcase educational services and re
 
 <div style="clear: both;"></div>
 
-> *Thank you for visiting my project portfolio! Feel free to explore, fork, or connect with me for collaboration or opportunities.*
+---
+
+> Thanks for scrolling this far! 🙏  
+> Appreciate your time — wishing you continued success ahead! ✨  
+> Keep building awesome things — and good luck on your journey. 🚀🧠✨  
+> Let's build something awesome together. For collaborations or roles, email [shubhamraj1414@gmail.com](mailto:shubhamraj1414@gmail.com), connect on [LinkedIn](https://www.linkedin.com/in/shubham-raj-sharma-306aa0247), or visit my [Portfolio 🌐](https://shubhs-portfolio-sfy2.onrender.com/).
