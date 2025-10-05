@@ -47,7 +47,7 @@
 
 I’m a final-year Computer Science student with a strong foundation in **full stack development**, **backend engineering**, and **software design**. I thrive on solving real-world problems through technology and building scalable, user-friendly web applications.
 
-I enjoy crafting efficient, modern software solutions using **JavaScript**, **Node.js**, **MongoDB**, and other technologies.
+I enjoy crafting efficient, modern software solutions using **Java**, **JavaScript**, **Node.js**, **MongoDB**, and other technologies.
 
 ---
 
