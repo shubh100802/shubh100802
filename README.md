@@ -33,7 +33,7 @@
 ---
 
 ## 📌 Table of Contents
-<img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Terminal typing animation" width="260" />
+<img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Terminal typing animation" width="180" />
 
 - [👨‍💻 About Me](#-about-me)
 - [💼 Projects](#-projects)
@@ -41,6 +41,8 @@
 - [📊 GitHub Stats](#-github-stats)
 - [📬 Contact](#-contact)
 - [🎯 Hobbies](#-hobbies)
+
+<div style="clear: both;"></div>
 
 ---
 
@@ -179,7 +181,7 @@ An official website for PhysicsCentre.in to showcase educational services and re
 - **Hosting:** GitHub Pages + Custom Domain
 
 ## 🛠 Skills & Tools
-<img align="right" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" alt="Floating code cards animation" width="260" />
+<img align="right" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" alt="Floating code cards animation" width="200" />
 
 ### 💻 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
