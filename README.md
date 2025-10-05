@@ -182,7 +182,7 @@ An official website for PhysicsCentre.in to showcase educational services and re
 - **Hosting:** GitHub Pages + Custom Domain
 
 ## 🛠 Skills & Tools
-<img align="right" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" alt="Floating code cards animation" width="200" />
+<img align="left" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" alt="Floating code cards animation" width="200" />
 
 ### 💻 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -215,6 +215,8 @@ An official website for PhysicsCentre.in to showcase educational services and re
 
 ## 📊 GitHub Stats
 
+<div style="clear: both;"></div>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shubh100802&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
@@ -224,6 +226,7 @@ An official website for PhysicsCentre.in to showcase educational services and re
 ---
 
 ## 📬 Contact
+<img align="right" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" alt="Paper plane contact animation" width="180" />
 
 - **GitHub:** [@shubh100802](https://github.com/shubh100802)
 - **LinkedIn:** [Shubham Raj Sharma](https://www.linkedin.com/in/shubham-raj-sharma-306aa0247)
@@ -233,11 +236,14 @@ An official website for PhysicsCentre.in to showcase educational services and re
 ---
 
 ## 🎯 Hobbies
+<img align="left" src="https://media.giphy.com/media/3oEduZDz5zL9A7Wcsg/giphy.gif" alt="Reading hobby animation" width="180" />
 
 - 📖 Reading religious literature  
 - 🎤 Singing  
 - 🏏 Playing cricket
 
 ---
+
+<div style="clear: both;"></div>
 
 > *Thank you for visiting my project portfolio! Feel free to explore, fork, or connect with me for collaboration or opportunities.*
