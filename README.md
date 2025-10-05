@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+scalable+web+apps+with+Node.js+%26+MongoDB;Full+Stack+Developer" alt="Typing SVG subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+scalable+and+real+world+web+apps+with+Node.js+%26+MongoDB;Full+Stack+Developer;Software Developer (Java)" alt="Typing SVG subtitle" />
 </p>
 
 <p align="center">
