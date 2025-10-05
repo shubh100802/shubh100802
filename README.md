@@ -135,7 +135,7 @@ A real-time, Google Sheets–driven digital queue and counter display for hostel
 - **Backend:** Node.js, Express, Google Sheets API, Socket.IO  
 - **Database:** MongoDB Atlas  
 - **Authentication:** JWT, bcrypt  
-- **Deployment:** Render/Heroku-ready
+- **Deployment:** Render/ Google Cloud
 
 ---
 
