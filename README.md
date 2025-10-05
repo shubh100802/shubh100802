@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+scalable+web+apps+with+Node.js+%26+MongoDB;Full+Stack+Developer;Software Developer (Java)" alt="Typing SVG subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Software+Developer+%28Java%29;Building+scalable+and+real+world+web+apps" alt="Typing SVG subtitle" />
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@ A modern desktop app to manage books, students, and lending workflows — built 
 - **Frontend:** Java Swing  
 - **Backend:** Java (JDBC)  
 - **Database:** MySQL  
-- **Tools:** MySQL Connector
+- **Tools:** MySQL Connector/J
 
 ---
 
@@ -135,7 +135,7 @@ A real-time, Google Sheets–driven digital queue and counter display for hostel
 - **Backend:** Node.js, Express, Google Sheets API, Socket.IO  
 - **Database:** MongoDB Atlas  
 - **Authentication:** JWT, bcrypt  
-- **Deployment:** Render/ Google Cloud
+- **Deployment:** Render/Heroku-ready
 
 ---
 
