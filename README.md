@@ -55,6 +55,7 @@ I enjoy crafting efficient, modern software solutions using **JavaScript**, **No
 ---
 
 ## 💼 Projects
+<img align="right" src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" alt="Neon code compile animation" width="200" />
 
 ### 📘 1. Geo-Attendance-System
 
