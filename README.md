@@ -243,11 +243,13 @@ An official website for PhysicsCentre.in to showcase educational services and re
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 1rem;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubh100802&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh100802&theme=radical" alt="GitHub Streak" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh100802&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
-</div>
+<div style="clear: both;"></div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubh100802&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh100802&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
