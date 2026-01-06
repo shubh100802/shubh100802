@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/shubham-raj-sharma-306aa0247">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/itsmeshubh2026">
+  <a href="https://www.instagram.com/itsmeshubh1008">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
   </a>
   <a href="https://shubhs-portfolio-sfy2.onrender.com/">
@@ -80,7 +80,6 @@ A full-stack, production-ready loan application platform that allows users to ch
 - **Database:** MongoDB  
 - **Authentication:** JWT  
 - **Integrations:** AI Chatbot  
-- **Deployment:** Cloud-hosted (Production)
 
 ---
 
@@ -99,7 +98,6 @@ A full-stack, production-ready loan application platform that allows users to ch
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
-- **Deployment:** Render
 - **Authentication:** JWT
 
 ---
@@ -162,7 +160,6 @@ A real-time, Google Sheets–driven digital queue and counter display for hostel
 - **Backend:** Node.js, Express, Google Sheets API, Socket.IO  
 - **Database:** MongoDB Atlas  
 - **Authentication:** JWT, bcrypt  
-- **Deployment:** Render/Heroku-ready
 
 ---
 
@@ -260,7 +257,7 @@ An official website for PhysicsCentre.in to showcase educational services and re
 
 - 🐙 **GitHub:** [@shubh100802](https://github.com/shubh100802)
 - 💼 **LinkedIn:** [Shubham Raj Sharma](https://www.linkedin.com/in/shubham-raj-sharma-306aa0247)
-- 📸 **Instagram:** [@itsmeshubh2026](https://www.instagram.com/itsmeshubh2026)
+- 📸 **Instagram:** [@itsmeshubh1008](https://www.instagram.com/itsmeshubh1008)
 - 🌐 **Portfolio:** [Portfolio 🌐](https://shubhs-portfolio-sfy2.onrender.com/)
 - ✉️ **Email:** [shubhamraj1414@gmail.com](mailto:shubhamraj1414@gmail.com)
 - 📄 **Resume:** [Download (Google Drive)](https://drive.google.com/file/d/1lO4-hu7nZcTjGaUJWAHvKjt3CYxcl9hS/view?usp=sharing)
