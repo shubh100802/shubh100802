@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/shubham-raj-sharma-306aa0247">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/itsmeshubh1008">
+  <a href="https://www.instagram.com/itsmeshubh2026">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
   </a>
   <a href="https://shubhs-portfolio-sfy2.onrender.com/">
@@ -59,11 +59,35 @@ I enjoy crafting efficient, modern software solutions using **Java**, **JavaScri
 ## 💼 Projects
 <img align="right" src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" alt="Neon code compile animation" width="180" />
 
-### 📘 1. Geo-Attendance-System
+### 📘 1. MyLoanCredit – Loan Application Platform (Loan-App)
+
+🔗 [GitHub Repository](https://github.com/shubh100802/Loan-App.git)  
+🌐 [Live Website](https://myloancredit.com/)
+
+A full-stack, production-ready loan application platform that allows users to check eligibility, apply for loans, and interact with an AI-powered support chatbot — built with scalability, security, and real-world fintech workflows in mind.
+
+**🔑 Features:**
+- User-friendly loan application flow with eligibility checks
+- Secure authentication and protected APIs
+- Admin dashboard to manage applications and users
+- Integrated AI chatbot for loan queries and guidance
+- Real-time form validation and clean UI/UX
+- Production deployment with custom domain
+
+**🛠 Tech Stack:**
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Authentication:** JWT  
+- **Integrations:** AI Chatbot  
+- **Deployment:** Cloud-hosted (Production)
+
+---
+
+### 📘 2. Geo-Attendance-System
 
 🔗 [GitHub Repository](https://github.com/shubh100802/Geo-Attendance-System.git)  
 🌐 [Live Demo](https://geo-attendance-system.onrender.com/)
-
 **🔑 Features:**
 - Secure teacher and student login authentication
 - Bulk upload of student list (Excel/PDF)
@@ -80,7 +104,7 @@ I enjoy crafting efficient, modern software solutions using **Java**, **JavaScri
 
 ---
 
-### 📘 2. Library Management System (Java + MySQL)
+### 📘 3. Library Management System (Java + MySQL)
 
 🔗 [GitHub Repository](https://github.com/shubh100802/Library-Management-Java-and-SQL-.git)
 
@@ -101,7 +125,7 @@ A modern desktop app to manage books, students, and lending workflows — built 
 
 ---
 
-### 📘 3. Mutual Hostel Room Manager (Roommate Sync)
+### 📘 4. Mutual Hostel Room Manager (Roommate Sync)
 
 🔗 [GitHub Repository](https://github.com/shubh100802/Hostel-RoomMate-Sync.git)
 
@@ -236,7 +260,7 @@ An official website for PhysicsCentre.in to showcase educational services and re
 
 - 🐙 **GitHub:** [@shubh100802](https://github.com/shubh100802)
 - 💼 **LinkedIn:** [Shubham Raj Sharma](https://www.linkedin.com/in/shubham-raj-sharma-306aa0247)
-- 📸 **Instagram:** [@itsmeshubh1008](https://www.instagram.com/itsmeshubh1008)
+- 📸 **Instagram:** [@itsmeshubh2026](https://www.instagram.com/itsmeshubh2026)
 - 🌐 **Portfolio:** [Portfolio 🌐](https://shubhs-portfolio-sfy2.onrender.com/)
 - ✉️ **Email:** [shubhamraj1414@gmail.com](mailto:shubhamraj1414@gmail.com)
 - 📄 **Resume:** [Download (Google Drive)](https://drive.google.com/file/d/1lO4-hu7nZcTjGaUJWAHvKjt3CYxcl9hS/view?usp=sharing)
