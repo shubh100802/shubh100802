@@ -143,7 +143,7 @@ A web-based system to manage hostel room allocation with mutual roommate prefere
 
 ---
 
-### 📘 4. Hostel Onboarding Display System
+### 📘 5. Hostel Onboarding Display System
 
 🔗 [GitHub Repository](https://github.com/shubh100802/Hostel-OnBording-Display.git)
 
@@ -163,7 +163,7 @@ A real-time, Google Sheets–driven digital queue and counter display for hostel
 
 ---
 
-### 📘 5. Student Marks Portal
+### 📘 6. Student Marks Portal
 
 🔗 [GitHub Repository](https://github.com/shubh100802/Student_Marks)  
 🌐 [Live Demo](https://student-marks-b29u.onrender.com/index.html)
@@ -185,7 +185,7 @@ A secure and efficient platform to manage and view student marks.
 
 ---
 
-### 🌐 6. PhysicsCentre.in Website
+### 🌐 7. PhysicsCentre.in Website
 
 🔗 [GitHub Repository](https://github.com/shubh100802/physicscentre.in-new)  
 🌐 [Live Site](https://physicscentre.in)
