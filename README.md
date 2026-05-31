@@ -262,7 +262,7 @@ An official website for PhysicsCentre.in to showcase educational services and re
 - 📸 **Instagram:** [@itsmeshubh1008](https://www.instagram.com/itsmeshubh1008)
 - 🌐 **Portfolio:** [Portfolio 🌐](https://shubhs-portfolio-sfy2.onrender.com/)
 - ✉️ **Email:** [shubhamraj1414@gmail.com](mailto:shubhamraj1414@gmail.com)
-- 📄 **Resume:** [Download (Google Drive)](https://drive.google.com/file/d/1lO4-hu7nZcTjGaUJWAHvKjt3CYxcl9hS/view?usp=sharing)
+- 📄 **Resume:** [Download](https://github.com/shubh100802/Resume.git)
 
 ---
 
