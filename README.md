@@ -121,11 +121,21 @@ I am a **Software Development Engineer** and Computer Science undergraduate spec
     </tr>
     <tr>
       <td colspan="2" align="center">
+        <img src="https://streak-stats.demolab.com/?user=shubh100802&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
         <br/>
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubh100802&theme=tokyonight&hide_border=true" alt="Activity Graph" width="95%" />
       </td>
     </tr>
   </table>
+</p>
+
+<!-- CONTRIBUTION GRID -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/22d3ee/shubh100802" alt="Contribution Grid" width="100%" />
 </p>
 
 ---
