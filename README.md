@@ -1,7 +1,7 @@
 <!-- HEADER SECTION -->
 <!-- A dynamic waving banner with Tokyonight color palette, aligning with the premium dark theme. -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=180&section=header&text=Shubham%20Raj%20Sharma&fontSize=42&fontAlignY=45&desc=Software%20Development%20Engineer%20%7C%20Backend%20Engineer&descAlignY=62&theme=tokyonight" width="100%" alt="Shubham Raj Sharma Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=180&section=header&text=Shubham%20Raj%20Sharma&fontSize=42&fontAlignY=45&desc=Software%20Development%20Engineer%20%7C%20Backend%20Engineer%20%7C%20AI-Application%20Developer&descAlignY=62&theme=tokyonight" width="100%" alt="Shubham Raj Sharma Banner" />
 </p>
 
 <!-- TYPING ANIMATION -->
